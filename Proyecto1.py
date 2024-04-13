@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 import datetime
 
-st.title('Titulo del Proyecto de Ciencia')
+st.title('Titulo del Proyecto de Ciencia de Datos')
 st.write('Hola **como** estás')
 
 #num = st.slider('Barra de numeros', value = (datetime(2020, 1, 1, 9, 30), datetime(2021, 1, 1, 9, 30)), format="DD/MM/YY - hh:mm")
